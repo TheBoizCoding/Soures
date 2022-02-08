@@ -1,2 +1,2 @@
 # Server (Ubuntu)
-https://docs.rackspace.com/support/how-to/install-mysql-server-on-the-ubuntu-operating-system/
+https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04-de
